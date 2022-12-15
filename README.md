@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm PARTEEK</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div class="conatiner" align="center"> 
+  <h2>I am final year undergraduate student of ECE at DCRUST Murthal</h2>
+<!--   <h3 align="center">Aspiring Software Developer</h3> -->
+  <h3>Currently looking for 4-6 months long Software Development Internship </h3>
+</div>
 
-- 🔭 I’m currently working on **data structure and algorithms**
 
-- 🌱 I’m currently learning **Reacts.js**
+<!-- - //🌱 I’m currently learning **Reacts.js** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/parteek-garg-006102193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parteek-garg-006102193/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/parteekgarg2803" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3mx6EsjjdfCOKO-GEL8_JI&ust=1671208211521000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCOqfCF_PsCFQAAAAAdAAAAABAE" alt="www.linkedin.com/in/parteekgarg2803" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
