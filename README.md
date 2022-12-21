@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Parteek Garg
+# Hi there 👋, I am Parteek
 
 I am a final year undergraduate student of ECE at DCRUST, Murthal. I am well versed in DSA and had made various Web Apps. I am looking for 4-6 months long software development Internship
 
